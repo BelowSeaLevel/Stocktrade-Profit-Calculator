@@ -1,0 +1,20 @@
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\bin\Release\StockTrade Profit Calculator.exe.config
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\bin\Release\StockTrade Profit Calculator.exe
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\bin\Release\StockTrade Profit Calculator.pdb
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade_Profit_Calculator.Form1.resources
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade_Profit_Calculator.Properties.Resources.resources
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade Profit Calculator.csproj.GenerateResource.cache
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade Profit Calculator.exe
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade Profit Calculator.pdb
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade Profit Calculator.csprojAssemblyReference.cache
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\bin\Release\StockTrade Profit Calculator.exe.config
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\bin\Release\StockTrade Profit Calculator.exe
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\bin\Release\StockTrade Profit Calculator.pdb
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade Profit Calculator.csproj.AssemblyReference.cache
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade Profit Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade_Profit_Calculator.Form1.resources
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade_Profit_Calculator.Properties.Resources.resources
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade Profit Calculator.csproj.GenerateResource.cache
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade Profit Calculator.csproj.CoreCompileInputs.cache
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade Profit Calculator.exe
+E:\Coding\Finished Applications\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Release\StockTrade Profit Calculator.pdb

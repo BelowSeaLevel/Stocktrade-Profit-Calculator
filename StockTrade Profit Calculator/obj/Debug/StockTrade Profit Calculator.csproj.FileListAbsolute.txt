@@ -1,0 +1,9 @@
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\bin\Debug\StockTrade Profit Calculator.exe.config
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\bin\Debug\StockTrade Profit Calculator.exe
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\bin\Debug\StockTrade Profit Calculator.pdb
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Debug\StockTrade Profit Calculator.csprojAssemblyReference.cache
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Debug\StockTrade_Profit_Calculator.Form1.resources
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Debug\StockTrade_Profit_Calculator.Properties.Resources.resources
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Debug\StockTrade Profit Calculator.csproj.GenerateResource.cache
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Debug\StockTrade Profit Calculator.exe
+C:\Portfolio CSharp\Windows Forms App CSharp\StockTrade Profit Calculator\StockTrade Profit Calculator\obj\Debug\StockTrade Profit Calculator.pdb
